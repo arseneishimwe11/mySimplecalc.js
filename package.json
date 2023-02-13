@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "simplecalc-madeinexpressjs",
+  "version": "1.0.0",
+  "description": "A simple calculator made using express and node running on the server side",
+  "main": "simpleCalc.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mySimpleCalc.js"
+  },
+  "author": "Ishimwe Arsene",
+  "license": "ISC"
+}
